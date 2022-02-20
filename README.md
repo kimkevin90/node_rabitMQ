@@ -1,1 +1,1 @@
-# node_rabitMQ
+# node_rabitMQ 실습
