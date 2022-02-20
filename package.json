@@ -1,0 +1,37 @@
+{
+  "name": "node_rabitMQ",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "concurrently": "^3.6.1",
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb-es5": "^1.2.0",
+    "eslint-config-react-app": "^2.1.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-flowtype": "^2.50.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jest": "^21.24.1",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimkevin90/node_rabitMQ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimkevin90/node_rabitMQ/issues"
+  },
+  "homepage": "https://github.com/kimkevin90/node_rabitMQ#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
